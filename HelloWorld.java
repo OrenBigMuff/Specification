@@ -19,6 +19,7 @@ public class HelloWorld {
 		*/
 
 		/*
+<<<<<<< HEAD
 		int age;	//ï¿½Nï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ïï¿½
 
 		age=20;		//ageï¿½ï¿½20ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
@@ -26,6 +27,15 @@ public class HelloWorld {
 		//ï¿½ï¿½ï¿½Ê‚ï¿½ï¿½oï¿½Í‚ï¿½ï¿½ï¿½
 		System.out.println("ï¿½ï¿½ï¿½ï¿½" + age + "ï¿½Î‚Å‚ï¿½ï¿½B");
 
+=======
+		int age;	//”N—î‚ð“ü‚ê‚é•Ï”
+		
+		age=50;		//age‚É20‚ð‘ã“ü‚·‚é
+		
+		//Œ‹‰Ê‚ðo—Í‚·‚é
+		System.out.println("Ž„‚Í" + age + "Î‚Å‚·B");
+		
+>>>>>>> 7b7f4644dfba67efadd4c4f88ce3bdf0b95461f2
 		System.out.println("$" + 20 + 30);
 		System.out.println(20 + 30 + "$");
 		*/
