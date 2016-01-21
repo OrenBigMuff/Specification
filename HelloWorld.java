@@ -11,6 +11,8 @@
 
 //お前のコードを汚してやる！！！！！
 
+//果たして間に合うのか？？？
+
 public class HelloWorld {
 	public static void main(String[] args) {
 		//���A���o�͂��܂�
