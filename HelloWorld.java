@@ -18,7 +18,7 @@ public class HelloWorld {
 		/*
 		int age;	//”N—î‚ğ“ü‚ê‚é•Ï”
 		
-		age=20;		//age‚É20‚ğ‘ã“ü‚·‚é
+		age=30;		//age‚É20‚ğ‘ã“ü‚·‚é
 		
 		//Œ‹‰Ê‚ğo—Í‚·‚é
 		System.out.println("„‚Í" + age + "Î‚Å‚·B");
